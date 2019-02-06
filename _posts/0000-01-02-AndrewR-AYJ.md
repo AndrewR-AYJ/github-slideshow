@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Spent the whole snow day watching Jojo's lol
 Use the left arrow to go back!
